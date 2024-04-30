@@ -1,0 +1,70 @@
+body{
+    background-image: url("gradient.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: rgba(234, 232, 232, 0.982);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+
+}
+
+#card{
+    border-radius: 5px 10px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 0px;
+    background-color: rgba(255, 255, 255, 0.24);
+    padding: 0px 0px 10px 10px;    border-radius: 25px;
+
+}
+
+h4{
+    margin-left: 20px;
+    padding-left: 10px;
+    /* padding-top: 0px; */
+    font-size: 20px;
+}
+img{
+    height: 30%;
+    width: 30%;
+    border-radius: 100%;
+    padding: 10px;
+        
+}
+p{
+    padding-left: 30px;
+    font-family: cursive;
+
+}
+
+#card1{
+    border-radius: 25px 1px 25px 1px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 0px;
+    background-color: rgba(206, 189, 189, 0.301);
+    padding: 5px 0px 10px 10px;
+    border-radius: 25px;
+}
+#para{
+    margin-right: 30px;
+    text-align: justify;
+}
+
+a{
+    color:white;
+    margin-left: 50px;
+
+
+}
+
+.ccard{
+
+}
